@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking forward to participate on the Young Computer Scientist InvestIN course
-- 📫 How to reach me manuventuetche@gmail.com
+- 📫 How to reach me Manuel_Ventura@icsmadrid.org
 
 <!---
 ManuInvestIN/ManuInvestIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
